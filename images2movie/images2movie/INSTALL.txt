@@ -1,0 +1,25 @@
+ images2movie - Convert image sequences into movies
+ ====================================================
+
+ 0/ Requirements:
+      - Matlab 7.14 or above
+      - Operating system: any.
+ 
+ 1/ Extract files into your Matlab Repository /home/foo/matlab/ :
+       >> unzip images2movie.zip
+
+ 2/ Add the images2movie directory in your Matlab path:
+       >> addpath /home/foo/matlab/images2movie/
+
+    Alternately use the pathtool:
+       >> pathtool
+   
+ 3/ Ready to use! Check out the examples.
+       >> doc images2movie
+   
+ Please read the README file.
+
+ --------------------------------------------------------------------------
+ Matlab is a Registered Trademark of The Mathworks, Inc.
+
+ Copyright (C) 2012 Todd Karin <toddakarin (at) gmail (dot) com>
